@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ateniumbe.github.io/sitemap.html.gz
+Sitemap: https://ateniumbe.github.io/app/sitemap.html.gz
+Sitemap: https://ateniumbe.github.io/assets/sitemap.html.gz
+Sitemap: https://ateniumbe.github.io/css/sitemap.html.gz
+Sitemap: https://ateniumbe.github.io/includes/sitemap.html.gz
+Sitemap: https://ateniumbe.github.io/item/sitemap.html.gz
+Sitemap: https://ateniumbe.github.io/src/sitemap.html.gz
